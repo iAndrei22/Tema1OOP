@@ -1,6 +1,10 @@
 #include <iostream>
+#include <conio.h>
+#include <vector>
+#include "CartesianUtils.h"
+using namespace std;
 
-int main() {
-    std::cout << "Hello, world!\n";
-    return 0;
+int main()
+{
+	return 0;
 }
